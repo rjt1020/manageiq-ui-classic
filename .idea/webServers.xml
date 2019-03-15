@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c3f8774-3a8d-4b0b-99d0-7975acd58fd3" name="manageiq-ui-classic" url="http://200.229.193.154">
+        <fileTransfer host="200.229.193.154" port="22" privateKey="D:\KeyPairs\KeyPair-c2c_N.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

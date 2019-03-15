@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="manageiq-ui-classic">
+    <serverData>
+      <paths name="manageiq-ui-classic">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/linux/.rvm/gems/ruby-2.5.1/bundler/gems/manageiq-ui-classic-075ac6846fa9/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
